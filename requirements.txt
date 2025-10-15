@@ -1,0 +1,4 @@
+torch==2.8.0
+numpy==2.3.3
+torchvision==0.23.0
+graphviz==0.21
